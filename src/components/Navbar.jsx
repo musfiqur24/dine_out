@@ -1,6 +1,6 @@
 import React from 'react'
 import logo from '../assets/logo.svg'
-import userIcon from '../assets/user-icon.svg'
+import userIcon from '../assets/user.png'
 
 function Navbar() {
   return (
